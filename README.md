@@ -74,7 +74,7 @@
     <img alt="rustrover" src="https://img.shields.io/badge/rustrover-000000.svg?&style=for-the-badge&logo=rust" />
 </p>
 
-<p align="center"><strong>📚 Willing to Learn 📚</strong></p>
+<p align="center"><strong>📚 Currently learning 📚</strong></p>
 <p align="center">
     <img alt="julia" src="https://img.shields.io/badge/julia-000000.svg?&style=for-the-badge&logo=julia" />
     <img alt="elixir" src="https://img.shields.io/badge/elixir-000000.svg?&style=for-the-badge&logo=elixir" />
