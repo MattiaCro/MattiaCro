@@ -90,6 +90,6 @@
 - English (C1)
 
 <h2 align="center"><strong>📫 How to reach me 📫</strong></h2>
-- [GMail](mailto: mattia.crosato@gmail.com)
+- [gmail] mattia.crosato@gmail.com
 - [Discord] poliwhirlholdingeverstone
-- [Telegram](https://t.me/Poliwhirl)
+- [Telegram] https://t.me/Poliwhirl
