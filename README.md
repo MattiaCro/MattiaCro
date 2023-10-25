@@ -9,7 +9,7 @@
 <h2 align="center"><strong>⚙️ Things I can use ⚙️</strong></h2>
 <p align="center"><strong>📜 Languages and stuffs 📜</strong></p>
 <p align="center">
-    <img alt="cpp" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=%00599c" />
+    <img alt="cpp" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c++" />
     <img alt="c" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c" />
     <img alt="rust" src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
