@@ -56,6 +56,7 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js" />
     <img alt="npm" src="https://img.shields.io/badge/npm-000000.svg?&style=for-the-badge&logo=npm&logoColor=%448cab" />
     <img alt="git" src="https://img.shields.io/badge/git-000000.svg?&style=for-the-badge&logo=git" />
+    <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-000000.svg?&style=for-the-badge&logo=kubernetes" />
     <img alt="github" src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github" />
     <img alt="linux" src="https://img.shields.io/badge/linux-000000.svg?&style=for-the-badge&logo=linux" />
     <img alt="windows" src="https://img.shields.io/badge/windows-000000.svg?&style=for-the-badge&logo=windows" />
