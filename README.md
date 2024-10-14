@@ -4,7 +4,7 @@
 <p align="center">👀 I’m really passionate about programming, continous learning and delving into the theoretical part of IT 👀</p> 
 <p align="center">👀 I'm also a League of Legends player and a surfer! 👀</p>
 <br>
-<p align="center">🌱 I'm currently studying at ITIS Galileo Galilei Livorno 🌱</p>
+<p align="center">🌱 I'm currently studying at UniPI (Pisa) 🌱</p>
 
 <h2 align="center"><strong>⚙️ Things I can use ⚙️</strong></h2>
 <p align="center"><strong>📜 Languages and stuffs 📜</strong></p>
