@@ -134,7 +134,7 @@
   <h2>📫 <strong>Connect With Me</strong> 📫</h2>
   <a href="mailto:mattia.crosato@gmail.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Poliwhirl"><img src="https://img.shields.io/badge/Telegram-D4A373?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <img src="https://img.shields.io/badge/Discord-D4A373?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: poliwhirlholdingeverstone" />
+  <a href="https://discord.com/users/poliwhirlholdingeverstone"><img src="https://img.shields.io/badge/Discord-D4A373?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: poliwhirlholdingeverstone" /></a>
 </div>
 
 <div align="center">
