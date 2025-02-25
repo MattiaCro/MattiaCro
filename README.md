@@ -134,9 +134,7 @@
   <h2>📫 <strong>Connect With Me</strong> 📫</h2>
   <a href="mailto:mattia.crosato@gmail.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Poliwhirl"><img src="https://img.shields.io/badge/Telegram-D4A373?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <p align="center">
-    <img width="400" src="https://dsc-readme.tsuni.dev/api/user/295270595812392960"></img>  
-  </p>
+  <img width="400" src="https://dsc-readme.tsuni.dev/api/user/295270595812392960?banner=https://tsuni.dev/images/sobanner.png"></img>
 </div>
 
 <div align="center">
