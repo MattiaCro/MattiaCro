@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>🌟 <strong>About Me</strong> 🌟</h1>
+  <h1>🚀 <strong>About Me</strong> 🚀</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4A373&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mattia+Crosato;Computer+Science+Student;Web+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4A373&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mattia+Crosato;Computer+Science+Maestro;Web+Development+Wizard;Creative+Problem+Solver" alt="Typing SVG" />
   
   <p>👋 Welcome to my GitHub profile! I'm <strong>Mattia Crosato</strong>, a passionate programmer and tech enthusiast.</p>
   
-  <div>
+  <div style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
     <p>👀 Passionate about programming, continuous learning, and exploring the theoretical aspects of IT</p> 
     <p>🎮 When I'm not coding, you can find me playing League of Legends or catching waves while surfing! 🏄‍♂️</p>
     <p>🌱 Currently studying Computer Science at University of Pisa (UniPI)</p>
   </div>
 
-  <hr width="70%">
+  <hr width="70%" style="border: 2px solid #D4A373; border-radius: 5px;">
 </div>
 
 <div align="center">
@@ -112,14 +112,14 @@
 
 <div align="center">
   <h2>🌐 <strong>Spoken Languages</strong> 🌐</h2>
-  <table align="center">
-    <tr>
-      <td align="center">🇮🇹 Italian</td>
-      <td align="center">Native</td>
+  <table align="center" style="border-collapse: separate; border-spacing: 0; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <tr style="background: #2d2d2d;">
+      <td align="center" style="padding: 10px; border: 1px solid #444;">🇮🇹 Italian</td>
+      <td align="center" style="padding: 10px; border: 1px solid #444;">Native</td>
     </tr>
-    <tr>
-      <td align="center">🇬🇧 English</td>
-      <td align="center">C1 (Advanced)</td>
+    <tr style="background: #1a1a1a;">
+      <td align="center" style="padding: 10px; border: 1px solid #444;">🇬🇧 English</td>
+      <td align="center" style="padding: 10px; border: 1px solid #444;">C1 (Advanced)</td>
     </tr>
   </table>
 </div>
