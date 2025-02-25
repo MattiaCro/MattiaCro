@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 <strong>About Me</strong> 🚀</h1>
+  <h1>🐸 <strong>About Me</strong> 🐸</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4A373&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mattia+Crosato;Computer+Science+Guy;Web+Development+Wizard;Creative+Problem+Solver" alt="Typing SVG" />
   
@@ -135,7 +135,7 @@
   <a href="mailto:mattia.crosato@gmail.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Poliwhirl"><img src="https://img.shields.io/badge/Telegram-D4A373?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <br>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/295270595812392960)](https://discord.com/users/295270595812392960)
+  <img width="400" src="https://dsc-readme.tsuni.dev/api/user/295270595812392960"></img>
 </div>
 
 <div align="center">
