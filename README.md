@@ -135,7 +135,7 @@
   <a href="mailto:mattia.crosato@gmail.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Poliwhirl"><img src="https://img.shields.io/badge/Telegram-D4A373?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <br>
-  <img src="https://discord-readme-badge.vercel.app/api?id=295270595812392960" alt="My Discord" />
+  <a href="https://discord.com/users/295270595812392960"><img src="https://lanyard.cnrad.dev/api/295270595812392960" /></a>
 </div>
 
 <div align="center">
