@@ -126,8 +126,8 @@
 
 <div align="center">
   <h2>📊 <strong>GitHub Stats</strong> 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=mattiacrosato&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiacrosato&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mattiacro&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiacro&theme=gruvbox" alt="GitHub Streak" />
 </div>
 
 <div align="center">
